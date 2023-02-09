@@ -1,0 +1,1 @@
+This is a place to load temporary assets for use for the https://mineskislash.com project.
